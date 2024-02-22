@@ -1,2 +1,2 @@
-# lambda-test
-tests using aws lambda to handle whatsapp messages
+# whatsapp-lambda
+Lambda to handle messages on whatsapp
